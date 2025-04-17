@@ -14,7 +14,7 @@
 <img align = "center" width = "50" large ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliasisac)](https://github.com/Eliasisac/github-readme-stats)         
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasIsac1996)](https://github.com/EliasIsac1996/github-readme-stats)         
                     
 
 <!--
